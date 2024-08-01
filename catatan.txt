@@ -1,0 +1,19 @@
+Yang bisa kita baca nantinya
+- HTTP METHOD ( Berhubungan tentang, POST, GET, PUT, DELETE dan sebagainya )
+- Response Pada Express.js ( Berhubungan tentang response dan response bisa mengirimkan beberapa nilai )
+- Refactor dan Project Structure ( Tentang merapikan folder pada project )
+- Middleware
+- Create Dummy Crud
+- Read Dummy Crud
+- Update Dummy Crud
+- Delete Dummy Crud
+- Mysql Create A New Database And Table
+- Create Connection Express To MySql
+- Refactor Mysql Connection
+- Setup Enviroment Variable
+- Crud to Mysql Database
+-
+-
+-
+-
+-
